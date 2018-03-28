@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/gpx-parser.iml" filepath="$PROJECT_DIR$/gpx-parser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gpx-parser_main.iml" filepath="$PROJECT_DIR$/.idea/modules/gpx-parser_main.iml" group="gpx-parser" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gpx-parser_test.iml" filepath="$PROJECT_DIR$/.idea/modules/gpx-parser_test.iml" group="gpx-parser" />
     </modules>
   </component>
 </project>
